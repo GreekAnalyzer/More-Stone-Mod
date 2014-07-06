@@ -1,4 +1,4 @@
 More-Stone-Mod
 ==============
 
-Minecraft Mod for 1.7.2
+This is my first modding project using GitHub. Won't be publicly released for a while until I get it all working
